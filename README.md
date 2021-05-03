@@ -19,6 +19,7 @@ The datafile contains data for the following features for each country:
 3. GDP Per Capita ($)
 4. FDI Net Inflows ($)
 5. Ease of Doing Business Index (0-100)
+6. Population
 
 **Description:**  
 Starbucks Corporation is an American multinational chain of coffeehouses and roastery reserves headquartered in Seattle, Washington. Starbucks is the world's largest coffeehouse chain. Some countries in the world don't have Starbucks. Ukraine is a country located in the Eastern Europe, and it is currently experiencing an explosion of coffee culture and consumption. Interestingly, Ukraine does not have Starbucks. Using economic indicators and coffee consumption on countries that do and don’t have Starbucks, how would ML models classify Ukraine? Is Ukraine a good market?
