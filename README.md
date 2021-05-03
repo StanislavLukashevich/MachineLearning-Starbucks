@@ -1,5 +1,5 @@
 # Application of Machine Learning On International Market Analysis
-# Can ML Models Classify A Potential Market (A Country) For An International Company?
+# Can ML Models Classify A Potential Market (Country) For An International Company?
 
 This repository contains:
 1. A .csv file with data on 158 countries for training and testing.
@@ -20,12 +20,11 @@ The datafile contains data for the following features for each country:
 4. FDI Net Inflows ($)
 5. Ease of Doing Business Index (0-100)
 
-**Description:  
-
+**Description:**  
 Starbucks Corporation is an American multinational chain of coffeehouses and roastery reserves headquartered in Seattle, Washington. Starbucks is the world's largest coffeehouse chain. Some countries in the world don't have Starbucks. Ukraine is a country located in the Eastern Europe, and it is currently experiencing an explosion of coffee culture and consumption. Interestingly, Ukraine does not have Starbucks. Using economic indicators and coffee consumption on countries that do and don’t have Starbucks, how would ML models classify Ukraine? Is Ukraine a good market?
 
 
-**Data Sources
+**Data Sources**
 
 Store Counts by Country & Market: Starbucks Investor Relations
 https://investor.starbucks.com/financial-data/supplemental-financial-data/default.aspx  
