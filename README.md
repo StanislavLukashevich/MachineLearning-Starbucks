@@ -25,7 +25,6 @@ Starbucks Corporation is an American multinational chain of coffeehouses and roa
 
 
 **Data Sources**
-
 Store Counts by Country & Market: Starbucks Investor Relations
 https://investor.starbucks.com/financial-data/supplemental-financial-data/default.aspx  
 Countries’ GDP per capita data - World Bank
