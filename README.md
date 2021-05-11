@@ -34,5 +34,8 @@ https://data.worldbank.org/indicator/NY.GDP.PCAP.CD
 International Coffee Organization: Coffee Consumption Data
 https://www.ico.org/new_historical.asp 
 
-**YouTube video about this project:**
+**YOUTUBE VIDEO ABOUT THIS PROJECT:**
 https://www.youtube.com/watch?v=ENvwHvgOFlg
+
+**LINKEDIN ARTICLE ABOUT THIS PROJECT:**
+https://www.linkedin.com/pulse/ukraine-good-market-starbucks-applying-machine-stanislav-lukashevich-/?published=t&trackingId=cgrSB%2FtRRUeMHjU2AwAlZA%3D%3D
